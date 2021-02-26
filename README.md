@@ -1,4 +1,4 @@
-### Hi there 👋
+### Working on my first repository and creating a webpage with my details
 
 <!--
 **LalithaDasari/LalithaDasari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
